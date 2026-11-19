@@ -14,3 +14,4 @@ snowman.txt
 umbrella.txt
 mushroom.txt
 star.txt
+pizza.txt
