@@ -1,0 +1,17 @@
+<!--
+  GAME.TXT: the game's settings. The owner usually looks after this file.
+
+    title: Doodle Guesser      the name at the top of the page
+    by: Sam, Ana and Lee       your team
+    theme: paper               paper, chalk, neon or sunny
+    seconds: 20                how long you get to draw each round
+    rounds: 6                  how many rounds in one game
+
+  Lines inside these comment marks are notes. The game never reads them.
+-->
+
+title: Doodle Guesser
+by: CS 1101
+theme: paper
+seconds: 20
+rounds: 6

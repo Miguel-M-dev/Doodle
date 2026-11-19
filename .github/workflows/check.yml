@@ -1,0 +1,17 @@
+# The Doodle check: runs engine/check-cli.js on every pull request and every
+# change to main, and shows a green check or a red X. It also works out the
+# report card, so you can see how often the computer guesses right.
+# You don't need to edit this file.
+name: Doodle check
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  check:
+    name: Doodle check
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+      - name: Check every file and work out the report card
+        run: node engine/check-cli.js

@@ -1,0 +1,79 @@
+<!--
+  A DRAWING FILE: everything the computer knows about one thing.
+
+    # Cat                the name the game uses (one # sign)
+    emoji: 🐱           optional: shown next to the name
+    by: Sam, Ana         who drew them
+
+  Every other line is ONE drawing, written as letters and numbers.
+  You don't type these yourself: draw on the live site's Teach page,
+  click Copy for GitHub, and paste the new lines at the end of this file.
+  To remove a drawing, delete its whole line.
+
+  Lines inside these comment marks are notes. The game never reads them.
+-->
+
+# Cat
+emoji: 🐱
+by: Quick, Draw! players (drawings from Google's Quick, Draw! dataset, CC BY 4.0)
+
+gScKYHbUTUQWOZMeMhNmPpVthvmuqsym1g2c1ZzWuTrAoInQhR TiHgCg ToGpAr VrNvJy rh2h9i-i rk_q qpzx10 ggbhbibkglikiidg aYac
+3IwIrLrPsSvU6U-R_N-J5H2H rKxAyG 2H7D-B-E-L vLuLvMxNyLxK 6L4M6N8N8L5L yQzR1R2P4R6P qKZMTPNUNZPbRbhbsVwRxP OTEZAgBiGiHZKWOV SaTiTjVkXkYjYa oXqhshtetarXrU
+QQSQSSRSRQQRQQ aQfPbRaQbPdQdRdPdQ TbVeYfcecdXbTb VcWe ZcZd RmXpbqeqio ji4Z_V ok5j kdvZyX1V MeFY ReIW QfAj VJLMHQFUFeGjMrRvYxfwmonklakWXKQG FPCIBECAFALDPI hMlN5K4N
+lLfKdLURPXNcMiMtOyR4U8X-f-p7t3zv1r2n1gxWtRpOkN STRTPQLAMARCXHcMfO rP3E6D3X2f bVac pUpd SpAp RyGyDz R0G_ us8m vx3v5v xz71 btdvgxkxnu iielglij
+WMTRSUSbWhchhgkdoWpRkK UMYMSCWCYEZIbJfIfFhAkEkJ ZSbS hQgR eW4K_L6N0O fZqS5S7S8T YYNTFTBUCV WZNYHYDZAb cWZb
+tIoGmGcIVKUGSEKAJCLFKP tJxG8B9D9H7R8V9b8c3i1kqphvVqRmFSFRKP vY2Y_Y wfzi3n tiwmys KXAZ KbEqBu QlMw aUaW iWiX
+jLWMSNPQMUKaJgLlNqQsVuZujqtjye0a1W1TxRsPjOfP tRzK_A_D5U WRSOACBIAX UWSXRZTaVYVWUWTXUX jWhZhaibobqarZoXlXjY TfUiYjkikhig aaaece
+QUSPRM RMQKNINJLM LMGM GMGJ GJDKCNCS CSCVFW FWKW RSVS WRjRsU uevgig hcabYcYdfe NXKXHYAdBeIe ReUdUcScKbHc UYQYOZ nVrUwQxNuL sIqHkGjFqBwA 9B-C-E9G2G0F 0FzGzH4J9P-S_Y9b5fvk EMFN
+gMdKZKSOLVIdHqKvNzW2e2lzowtrxixYvUnNhM qNyH_A_C9GzX SOLIAGAIESIY ZiZlahbhdnYmXmYm lbjamXnWqWsbsdoejeidhbka PYQXSWVVXXYZXbUdOeNdNaNYQW YqZvXyUyTwTv arcvgx jlsh1f
+cGWFRIPMOPPRRUVWZWgVjTkOjLhIbF eGiBiJ UGSARDSH VKWKVLVKWK cKfLeNcNdK fQ_T hSkSyW7X eT1g SQFLAK
+iHcIVKMPJTFYDeDmEsHyM2R4X5i7v6z4429v_q_l9b4UwPiKYJ FYBGAABAFEMM pMzC1P1U ihhigjimlkmh iiNf fl
+LbJaDaBbBhDnJyR7V-a_g_i-k8k1jwirelYbTVKPEODPDUGb FbEQIHJAJHKM QSbOhOdTcXZb Me Re QqQp Wrjrmsmt bugvow czt5 KsAu QuIz RyK1
+DiEgLdVadZnZrbufwouspzk4a6U6L4FzBuArBm ClALKbMd pZqSyAuXpj Ml Mn KlLo higj VvE4 P1M6H_
+nTgQYQTROVHcDjAtAyD3I6S-c_i_l8p0uitcsYqVnSuKzH0IzMvWrfrgqg ZPVIPAMAJBHEGIHLKULY UYTeUfXeYcZbYaVZUbWc hdgihjijifheffdifjgh RrTwXyYy
+lNjLfLdLcObWbYeahakanWpUpPoNkLgL cOcJdAgJ jLmBnM gPgQ kQkR gTjUmT fZegXiQjKhEgBhAlArEx KxLyQy Wxdtiokjkb DxE_ MwN9 YuXz
+VgOhIdCTAMAGDAGHHHSHYIaEcCdFeMeVcaXfUg NSQTQUQWOWNS PWQZPbLcKa RWRaSbVbXa HOGOHNHP VQWOWPWR SVaTvS WVrVyW UV_e
+qJqIeIVMSSSdbjiknjrgzU1P1LzIpI zT_W wXzZ5Z-a ue8g xIvBvArH iIgBfAdDcI UVDVAW QaLZGYBY QaBc bRaQXRVSUVUYaabacVbQ pTnTkVkZnarasUpT
+DJFXGaJdMeVfacdWdOcHbFVQMQGIBF eWrX4X5V5M0F0C2A5B7D9R-b9k_s_v6y5w5szqpxlziyhvitgsdtTyOyNwOsKsEuAuArCpLkMhMd MW VV RXSWRX NZPZPaOaMaNZ NaLbJaMa
+KIKSMXRdUfefgehcjRjDiBYKRJLAKI WXAR SYHY PbHdDgEf cY0R_P faoZzZ ddoltpsmnh WaYbabcacZ SNSO dNdO
+IbAPHQSU mRvH3B6A6D2QzT mQcQaSRV HcHoJwM3T9Y_b_h9l7o3swxgxV
+UNVMcKjKmLpOwYyczhyivklnZpUpRmOhNbNUOQPNTM lJpAtM TLKFJJKN hatY2WyZqcfeti_k edQbAb adYfOj
+FSFMBCNRgRhRpAuZxlyxw2s7g_b_X9Q8H4CzArAlFZFV boYnXpXsYubucueqcp epdoklpj eqgqjp etlv XoOpKm XsQsOq WuRu
+cUWURUMXIaEeBjAnAwC1F4N-S_W_b_f9n3ttvmvjtgoZiVZU DcDFDBEALHRRWY eSmKxEtUsn UqVrOsOtWucrTr UuS0O6 Wuc5 ObReRcPbOcPfQfRePdOdOePe cYaYYbYebgdgefecdcad
+QGKFDIBKAMAOFSLVRWVWXVYTXMWKSIPI XQnPxP mQgZgf nPmPmTpd xP0S0Z2b yO2T_a zNzYzOyUyZ yN1J4D KFKBLAPEPH WJWFaEaFVK YDTI
+VMVKVFTAVCaKcLoLwBxIwPybyivmrpkteuVuRrPmPZQVRT bYcUdWbXbW qYpWqUqV ggbeKU ccZeXeOkEpAt UgRfNfKfIh ohofrc8U_R
+JUCKABIIRSaMlLuOxT9A9U_c_n8u4013w6s7j6Z3NwJrHhHaJU ZaYbXdagbgcdcc pcncnengphrhsftcrc gqerfuhuit
+i_Q_K7E1BwApAdDXISOOULaJhJnJsLwPzV2g2l0quwp0d4V4 BbBEFGOR iKiArV Th Th ke
+Q1N0LyDjAaAVBSINVJhJqMxR0Y1f0lyrq3i_f_b_S7O4L1Kx GOFAICQK rNzI-D-F8M3V qbvc0f slvmxo nuqvry
+RCNCKEJGKJMLQLVLZJaFZCWBRB OGHCCA NHAC OIGO THeA VIfG VKeP QLONOQQTTVcXnWsUvSxQwOnKZJ XUTZQaNZ aVZXXaTb oTqVqZpbnc qSuZubsb tPuOwO3S7T-R_Q_O OEPE SETFTE
+JRIRGTGcIlLpOsYydzjzoytvwr0k1h0avTkNVLQLLMIOFS DPCOAADARGTG oMzI8H9I_P_X7c3e VnWjYhcheiekYmWlWjXicgegch ZmZvTs dmjqnqpq lclarbqclckanX JcIYJXMXOXPYMZ
+ZNWAYBeJfJkIqHuI0M6F-C_D_G8R ZNWVYaeekgohwh0g4d8Y8R gfaqYyc0f2i2k1mxvxwzy0506z8w7q5l2g cnQgHZDUBRANAMBLCMENUdfm UnSqRuUxax ToXj pUmXnYpYqXqW jNkN
+XVOKNJMLMVOeQjTpbvexlytxzs2n4i4a1PzJtBrApDmVfTaTVVUW Xe Wd mc lc ld lc ibkekc Xe eiej Ykbodoeofnhokonl rh5S pm2e_a qozq_v ThAhBf XnLpDrDq bqWtRxK4
+tFnGdJTPQROXNdPkTscyj0o0tz2v6r9n-i-a5NzFvEoF_A_N8V YNSLHJAHBMDUFaQp nefgchfjokqipgne irlpnmtovowo VbWZUYUaVbXa qSrVuUuSqR sd3a6X tg2h ZgJi ZjPt ZMbU
+WGTEODOFRL YGiFoGsCxAxBvGuJ wExJ PHPLQO WQFQAS VTGVEYHY UVPaOcQc pR5U_X_Y rW3a5b4b qYyd
+TqOoIkFgEcFWHSLOLIMBNBXOYOcMfMkMmNpDrBtAuDsN0S3W3a0gwjoncoSn SRXRYSZTZWXYUVUTVRXRZS qVoVnSmRoRqRrUmU Xfaifjhhieifnkpkrhsb rd2a-b_c9c og5g7h4i nirkzm2o1o dfaiOnJq ggekUx bdWfGiAk
+leiaaVQVNWIbEjAuA1C5H9R_X_q4t0utqkmg jakYqNuAtYsk LYHQBIAi QgQhRhQgPgPi dfdhehefdecgdg XrXt
+cQaOYOTPKUGXCbAjAoFsKvSxaxjxqvws0o2j2dzXuTnPgMVLTLSM KUEFDBQAXCYDYFVLVQ pQrHvD0D4E-H_J_M2W0Y JEJHKI zIzM RdQeQgThWiui NbZalcpdqg nepesg fS
+bRZRPSIUDXAcAnArCvG2J5Q-X_f_i9k4lumijafUeRfQ0J-E9H5KuUrY IUHTHIJDLANAPGRT PaLbKdKeObNcOa YbWe PoTpTqOwNn NvN3O6U0Xu OyK4J4GxFr
+irtkyezbzTyOwLtKlJlAhDfIXIUATBQILIGOESFaJhOnVrcsgskp jMgNeQiRjPjN UNSNQPRRTSVN oa7U_R QbMYAS OgAh mh8g VbZfdgffgZ
+vDsBpBnCiHgMgRhUjVoWsUyQ1K1GyCtAqApB fLWJIJDLAMAREVLWPWaUgShR OXPq YUXp HXHs dTdq zL_K uN9O vRxR-V kNiMRM iQVR mVhVVZ
+JcESDLCBEAWV oYqTvN7B6J1k IhMfRbYZtZxbygynwvt1p5j-f_Y-S6N1LwLrLkMi cmdm qirj UtCqAq VzT0O2
+QGMGDMBQAYBbEgKjSmYmdjghicjYjOhKbHTFNF LOKQLSMRMO YRWTWVXUZR NWQX HZJcMcQfSe gJnHnLlO OFGAFI jd0h6j7k6p3szuswmwivUpSoRl 4i6g7d6Z4V3O6L_I8K6N6Q9U9Y7h4j
+bFYGVIRNQVScYjgnknnmtivfwawWtRlJgGdGZI RMQIPAWH lItCtGqO pV_Q rauZzY_X se2e9f TSAV YbTbHd chLn XNVPVUXXZWdUdQbOZNWO
+sTsSoOkNfMaMVOOSLWJaImKsOyY4c5j6n5q3vwzpzl0fzbwWsQoNlM pQoOsJzE2E3Q1Z0c WNPDMBJAHIGQKc ORONNLLJJLIRIV zZzOxQvW to6p9r rwy3z507 p5v_ LiIkAl MpGxGz UwP9 bjbodoflbk coasYtXq dncqcteugvht sjti
+VUaSkQvQ3F9A-D-J8W WUSRMNEKAJBOLY NVKRLRRV 0R3N5N4T 8W_g_n-v7y60z1m2V5N4L1IvHjLaMY hpppmwlw
+YVXb sUsb elekejgihkgmfmel bjRgMf WjTkJk XmPoHr mkvj0j1k oowp2q mq0x eobqYq gphsku FPFJIALGPJ rNxK_F_G6S VKfJnLoMoN FZCaAeAlCpHvN0U3Z4h4o20x3s5m5g2a
+EmDlCfBUBKDE 9j_Y_R_I9C 9A5A0EtNsQrT VUNKJIFH sSlQaQNVDcAhAmEsIvRzY0m1uy2u6p9m-i9d6Z2VyTtT VjTkUoWsasdpismsprsotk UVTf oVof dlcmco
+uKqMoQpVtawczd3d5b6Z7R6O1JvHqH qOoMkIjAlAmBsJ 0I4D9A-B_G_N-Q nTCTAUAVCYGaPdadvX
+2X2WySwRqQgQRVIcEkEtFvKyV1e1j2x2207v-p_l_b6U1RzR qRqPuM1A1K0NyV VUSSBEAGAIGa PdUcYaZZdZgb gbZeSe vd0b7c7d5h0hue
+XIUKROOTNXPdVkamgmkjncnXnUjPaK NQLAMAPDUL hLnEqBrBqMnX bWXXWbXdbddceaeYbV XYRYCe VeKiAn QdGhAm fb4c9d_f fdpe7h egzj4i URVTXR
+uItGoCmAlJiKdLULLPDJBLAZCrGwLze5j6m5yv3o5j5b1UzOvJvI rmmlhlfrZlUs VlJkFi OoHoEp OpJsHvGy phpeuVwTyS shxgzd tq4o9o_q
+gMcKXJULMSEcBjAnArDvIyO0W0eymvtrzm3h5c6W5S3PxKtIkG wH_A4J3L NOFGIS YUVUUXWWXU nRlTmUnR adcYic
+RJMLJOHRHXIZLcPfXfechYiShPeLXIRJ HMJCQM YIZFeAeKfO OYMYGbCeAg PdMeEkCnCp TfKlDt aVtW balcse bRnTyW SkUibehcqayZ2b3d3j1pystvkvevWrTm yg2g7e9X 0q6n9j_f_b KSLR WQ
+YRVQSRKVFbChAnAwB0D3J8R-Y_f-k9o6v0xvzoyfvasXgRZQ HZFAYQ jTlQyEwOwW becncrauYxWzSyQx dfdpet
+EdESFMJCLAMARJSKVKfDiBkBnDpDuCxAyOyV LdKWLTNSPTRY kVnPoNqNqPrUqY JcChBlDqJuRwbwktvpym6i7c3ZuWrWoY KkBlAlAm PnFrFsGu TsJxH0F3 uh_e ui5j7k ol5q SfVgUd jelhkd Xpgrirjo
+LaLcLjNlQmdmolskvh1f4d8Y_T-R8P7K6F8B5A4A3B3M1U0WsYeXPYLZIYHWGUGSJPNPQRRV SmRxRzS0Y0Z0an imh6j6l4lo JQJNMJOHPRPKNHKNJNLN HVBVAW HVBd IVIg uXvYyW0S4N4K2H3D6C_C_I-P8T2c0ewfqlil
+pYlWeWXXPcCqAvB0G5O9b_i_p9v6034z7u9o8h4ZzTvQnPhQdU McRDSCVGYOcV qRsQzD2A3C2M3V YkVlXnancmblZkYkXlXmZnbnbmalZlYnZnamal qfognhqjsjsiqgngnhqjsjsiqh ksitjukrkukxi2f2b0 jujym0p0pypw rrwq1k qsvs3v avRuMt axWy
+cVaTUTNVIZFfEiDmDwH2O7X-c_j_m-q7vzysyluenZiYYY pbrSxF0C1KyWym VbPOMAIGCUAeAk mmjlinjrmsoqppomjk ZkYjVkTmUnVnZnZlYj
+SQOJGCJS eOmFtAsN UPaNgN OYNaNdPdSbSZPZ dXcZdafagZhXeV TlToUpZpanYlUkVnXn WpUs WpXtYt uQ0W3c3p2x02w5p8c_U-L7F2AvAnBfDbIU
+hPPQMRCcAoAsD3J9L-R_d_o7u0yu1l0htVjP HRJQLNPATR mSqR4E6D6Hze XtVvVyXxYu XyX2Z4a4 XyW2R3 WuKr WwLwJv WwM0L0M0 asyv Zymz czmz

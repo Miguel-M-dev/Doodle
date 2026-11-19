@@ -1,0 +1,79 @@
+<!--
+  A DRAWING FILE: everything the computer knows about one thing.
+
+    # Star               the name the game uses (one # sign)
+    emoji: ⭐           optional: shown next to the name
+    by: Sam, Ana         who drew them
+
+  Every other line is ONE drawing, written as letters and numbers.
+  You don't type these yourself: draw on the live site's Teach page,
+  click Copy for GitHub, and paste the new lines at the end of this file.
+  To remove a drawing, delete its whole line.
+
+  Lines inside these comment marks are notes. The game never reads them.
+-->
+
+# Star
+emoji: ⭐
+by: Quick, Draw! players (drawings from Google's Quick, Draw! dataset, CC BY 4.0)
+
+RoJ2H8L7R4axdvt-v_w-oovk7a5ZuZmXkSbCZAYBYJTbTaRZAWEgJmMpPp
+abaTcJfBgAjIna ZYGaAcAdGeVhZi na8Z_a-d6fyiqk YkU9V9W6gss7stsl
+FVZUqV0X3b3dzgjsF-C_B9B4HnOYXJeBiAlCnQo2n5m5g4YxKhAT
+ZPjAlDpR1U_X4cok ZPHbDdAiHiRhhhekPwNzZwhsito6q9s5vuwlwc
+gBVYTmQtPsRohAiHjNoatnvvuurpmigeFOCLAG5P8P_N_O8U3awfaqPv
+TCTDTFbbh0j8g5PuJsApLlUfcYoMpLoOVrL_K9K3PnTHVA
+XdMzK3Xxfrlm insyv3x5xf we_d _c2WpS TcPcAZ BZUO TQYDbAkHqS
+bUhBiAoJsOtRtTuT6O_L_O8Uxi1n8171wwstmnhhgmeqW2U3S3SwUoWjaeHcCbAaCZRWZUbS
+dBcFSVQcIpFxHzLz1x5v_w7r2lqUoOeA AORPiNwO8M_O4X0drpg9e9X2RrJhGaETBKCJ
+olwj4f9e9d4bqXoRnAkAeJZPVWRWJZEdAhbhahZiYrS3U1ftgyj6m9p_q9stsosnqm
+VdXOZHdAgFiMjSiZ1Z9b7cqjhlgmjur_h5bxYsYuL9OtPrApQfXc
+fAVVfEhDjDmJra WYUXRYBdAeAfEiVqVtT1R9islwy8wuun2i_Y_XmU
+JvOlYSfHlAoApCpFsmrrotmtjtbqOgDWASBPIMQLlK1L_MegMqFuDx
+n0PeHWANDNRP_TyWkcWkLtE0hPvAjeezd_
+StUnZebXgAqWvmzt00urljYbOVAQKP4E9E_G-I4QmefnbqVt
+QhUVWEYAgPnhWXLPtM_IXbEiAl
+QVcAdAeGfZiUnQ2J3K3V2Zyj5246yxuqrarRrWmkfwX5T_U6XwagXlLrA3AzLZPSPT
+H6SumcvTwQvPqNlNaQFZAcAdDhRsj_j6fScEbBZAWFTWQjJ1I4
+SVeVhNiDkAlAsIvTxU_S_Z-d2qwxuxrumglgZuR0 RUAhFiKgL1Xx
+ahaA aAcGlc lc6c 6cyiql qmqwu- u-q7hxbp bpZxT_Tn TnCnAmAlGjad ZAcIhQpa
+JrKpVYjAmGzV5g_orjSbJZAVQQsF8A6E2LnbdiMr
+WYWUYJcAeIhR_R_S-T0XpdqzoxjqZgAtBpFlXY XZIYDXDVHTMSWScT
+ObZRhInArR2R_T7Wtcxe1j8r8u6u0sqlixb3bvdkIhAeFbQX
+ZARcN2QwXnwXjYFVAWEdXxl8p_q-p9g1dxXlUXVF
+aAVITOI7 dEtnwqyvxx ywe5U8M_ JVYV8MyUpeX6W9Z7Z3YyVsMgAV
+WYShOsQrVogcidrqusuosfrY6b-b_a2TvPrNuFuAoFhObHOAOBUNUQFSAVBVJXVY
+IyIuMmhGjAuc0zssgkGZAXcT7P_OlgbmUpNt
+AzHyQvapjmnlvl2i6i_g8f5c2bobiZeYTYNWKWEbBaKgNkRlVocso0v3rwmscXZQVJUARJJaHfGoEwBz
+O8R3TxhImAnGoQqcv2y_x7t3nyAdYcsa9W5cVzQ5N_
+YRiApQ-P_P7TnixumripdiVpNuNsOoTgHgAfMVWOaM
+gmfAlPtczo5x5v2qrkghNeFcAYBYFWQTyQ_Q_U0fvjkq
+UYVVaEcAlXnb-V_V_W9b6e2gqkz5y5t3mzfrdrT4O8N3MjKfATARDQOTaZ
+JYUYWZ pW5U UcaPdJfJhLqZ JbVpVuT0V0Xzhslut1tzsuqpqn5V GNAG RDSA 4t_w 6m_i
+AsBqDjDFEAFAMLVRXUUmT_
+t_l1csOiEcAXAWBWPUeSmTnUmYkdhiRwL4J4IyMVNOOAREZTfhlzq6
+YpVXNJaXpfpgbkAqHibSuAnReeT1 s0zS_w
+aTdQjEkAlAuS_T8Wwh1j4n8v7w2wtvmrkojoQzSkVeAdQUWOdM
+hSjQlIqArOvPzR6R3Whljktj2n_s4wzxkwduZ3V8S8R3XpYhTgLiAhAgKdWcZaVWTURM
+HFOMQNRLOAMBGMENIISCUBTAOAAG qIuRycyP0EvKpPgV6P_L_J7IjNgM
+CIGJdYym1pyrAvNgcRpAqAkYioj0l5p_l_j-c4MdGO
+YYcMiAlMoWrV2V8V-W0eqiwxy_jugqdsR7Q5R0TtVoRnAoClFjOeTcVcUc
+MnhAiCmPtfwq4905kvOdEXHXaWjYqa1b7b_b7eyhilXpAsLn
+A_UkhAjEjKmciwfublRZJLNNSPkUtY2ayamgWtOvJy
+iBgPaaXbEbAbKfZidkgqhuh1f_h2kynwus5q-q8n1jxesRqHqAoBhJfQ
+dqdjfUiHmO2h5nsjkhahHlDlAiTa_A_D6LyUnihl
+bAVTJTASATRmNzN4N8O8W4fws7z_z9z5smvh5X6VmScA
+PBTJYYgpiyi6j5nwppqGsAfIUSGbAhRnmq5r_q_p7izbmUZKOFKJJMIcKkPwS0V3j3u11v4r6n6i
+ZZcAdBeDkauZ-Yshqjrn06x5fneuc0Z6W_V8VqTpApOgbb
+D5DzGoVAVIbffplzD0 AXTYnUfkayV9 AUHmX_
+VVcAeCiOkS_S2brhz0y0glcjYqTyQzQxQrQnTiEfBeAcFZTT
+ZZjAjMmeodvd7g_igqiqjwi6axUmTqRsIyEzEwHpQeNfJeDcAZCYXaYZ
+D1MiZMgDiBmAnCocqrqxoyScKVAOyN8P_Q_SaiLrGvEx
+XTbOjAkEnSoVtVzW_W_X5exjpqvuyy43z4v4s3mziveubrarRvI1NtPmVdVaOYKUAQGOSOVPZU
+D8G0XThEjBmAoPrpw5nrbgXdOZAVLVqMzM_R1TsVddNoEuCy
+LXOkSfVZcjfdhWuRuQfMeIbAaBVMLOCOAPAQHVKYLY 2B_N
+KjWHbAeGgRfdjaratYxY4ayjqpnvlzh7d_Z3WqVqKtHvEtAsCrJiMg
+TXUSXNaAdGfY_b4dsfdderexboWdTlPpPlRYASJUVV
+SZaDcAeAgGhQkVqVzZybwdlmqtz9z_r5lyfucuauJ7E8KvPpTmVjOjFeAdBbNbQbSa
+V_W8WnbAiJlQqfwq1606v1muYnSjKfAcAbFara2Z4Z5Z1dhrZyV3
+VvXcaGcAnYsf0qsljhIaAWBUYP_F-JWwQ1

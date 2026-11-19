@@ -1,0 +1,79 @@
+<!--
+  A DRAWING FILE: everything the computer knows about one thing.
+
+    # House              the name the game uses (one # sign)
+    emoji: 🏠           optional: shown next to the name
+    by: Sam, Ana         who drew them
+
+  Every other line is ONE drawing, written as letters and numbers.
+  You don't type these yourself: draw on the live site's Teach page,
+  click Copy for GitHub, and paste the new lines at the end of this file.
+  To remove a drawing, delete its whole line.
+
+  Lines inside these comment marks are notes. The game never reads them.
+-->
+
+# House
+emoji: 🏠
+by: Quick, Draw! players (drawings from Google's Quick, Draw! dataset, CC BY 4.0)
+
+CbC0D7F-G_K_P_g6k5p2pvopjZhVAb BaBXDRLFQATAZEhS HnFoGyJ0P0QyQlFl DuMuSt JnK0
+ApDlEcKQUAjiblWmPmCk CkArA8P_V_d9y9u1skXk X-V4Xyfy
+ArA7k9v_wnuWHWAVAs T6TtSoTnanapa9 Y0 BUJOdAkEpIrPtU ihglgoiplpomojnhlhih jhkp hmol GjFkEoErFsIsOqQnQlPjJj
+FlSReAeClL4fZdAd EdH0I6m6-9_9_85f
+jfBeAgAlD4E5H7T9f9n6p3qvpmokli DhIPKJPDSAXGeQkamflh Y_VtVrUrOuMwM9N9 ZhZrbshtjrlokfZf
+P5Q3RZYRoHuA2S8d_k-o424_y_l7R4H3A3 RYWasd1g
+WAAYEaNbke1f8e3bqMXB IcKjK9L_s9skth
+CgAqA_B_ ChGfJebhqivkxoysy_ CdNLTDWAaEhNzn JiIqJqVrWn
+dASMDYAd eAgC1R6W LTM9N_ xRv7v-u_ N9m8z7 Y8X3YuZtnum8
+AiA5C9H_K_g8l6m4m2hZdZKdDf AhJOQDTAVAWCeTiY Q-P5QvVuavbyc5 Z1
+CfHdnZtX DeIZaMuAwFyP0f 0f Bd Bd BgAn AuC-x5-2_y_t -n4c 4b2Y N-OwRjTfYfslynzp zqw6
+ODAV SAVHhXgYZaQbAb FeIwM8O_ ebjuk6f8L8 X-V8U2TtVuXxa8 VoVsVuXtYrXm eDcW jK
+AXJNTBVAXBcHqapbabIcEcAaCfCtD7C_D_c6m4ozosmhna
+JVLTfHlDqA7T_Z_a0cfcQaAa KUJcE0E1L1858b V1YuYnZnlrttr3
+BZJQVGcBiAlCtOyV1Z1dFeAd BWDeG1H8 xbx- Y-X0Zveuivjxj_ GgHhIjIqKqQoTmUhTgPfLfJg pjoqosssvrwpykyhvhqi
+CfDnD3C_ EZGZNZXWdWeZfjc8a9F9A_E6 AcBbGUKMOCPAQASBWOfZ
+-61ZzZncYfNgLhLkP3S8U-i_o-y-27 5flGgBcAaCYKVPOWMbDgAl e6f5etiqqo msq7
+BcA9N9Y_c-e7e4eycoccbbYdSeAcFUKIPASFXTcf
+I5G5G4FqCXDWMTXQfQtS6Q9S_g_l9w99t8X9P8K6I6 AaAYBVHORDVAeCpEuG9S X-X2UpUkViZijnsq
+BhKVSMeBgA2X4bmdLeGeAh AfBqB8b8v664_3_29m7f4b
+A-N_o605 C8CuCqDpUphqwqxryt12 EpEnPJTBVAeMjTrbscshxn
+ARAbE3E_s_s6llibhPgOaOLRAS BSBQFLOARBYIhS
+AfA5B_ A8a7j9q8 BgNdmennmonto9 BfDdIVLTRKXFaAeMgPhQjSjXmb
+JbJiKoL_ oco6 AcTctd BdBbDZLPaA bCeGnOwY0b F9S8h5p5z4 VwV2X6
+6juOrLnKlLlTgrlrup9i_i_j_m 1l3q464502k3g2jvksko 56v5g2f1iwio RRNIFAFGDNCRASGSLRTRUS PSQURhGhDiCgFXFR
+CVA9 9S7n4_ DUOJTGWCZA aBeEkGmKoKtN6S8T DVQVeRpRrP3P6Q8S S6VwWtXsZugvmzm0i3h4h9 B859 qYrl0i0YzXrWqY uXvm
+HVYVtVvcxr1-z8T-H_H-G4EtAfAbBYEVNQVLgAqNsU RqX1Vz
+SCMNJVDgQeceeceVcQXHRA EfDiBqAzA3D-E_X_g-h8gzdpcfde TSQSQXSYVYWQ
+A7FhFYJZva1b1dxuw5u_t_k_V7J6A7 FYREVAYDoMwT1a KjJsWtSiJj
+HURJVAXBcHgRgggngug8g9f9X8G_A_ A_DkHYHMISIc HX
+ETFpHzL8S8y0-z_x_w4ezPqOePGUCUAS jPhPhNmIsCxS BWAVDTeAnFyJ1L3N 0L3O RgVmb2 PjRkXikdocnroyq2 Wzc4 kqiq sUsYvg1e2d2cwTvTrV vUxZzc tb2Y
+JkK0M_x_v0vhugThKjAjOVgAiHnM3dyesg
+B_CrBVHUqTq_p8 AVBVOAPARAiLnPrV GdHjRi
+o9g8A_A-B4CkFUMPfDjAkEmKvZkXLWDVJZWkdsl5nhpZrUsUrWmbTpB8
+kAlBnQ jBnBxEyT VDjOzZ4d4e TGNQFZBdAfEgShpg6i 6i6y64 DgFxF0H3 _5A5 b2bvcreohmlnpqs1 2lvk
+lbSfDfB2A_ mamvm- BeDcJURBTAVAXBgUnb PxP_ Oy
+AZB- A_1_263t0b 0acaPcBaCXHTQMaCdBgA gAhCoLyV
+AdTFXBaAiL1fjdHdAdAeCf OeNiNtO5T7b9v947403w1oxf f5fzgxhwnxp1q_
+A8A0DlFfHcIbNbXfgghgeue8d_b_V-A- HcIZMQVAXKaSgn N4NuTxU3
+N7IjHa AeDaaGiAmB6N 7R5c5j5w5243w5b7S7P4 b4bpeiielfnko1 sVrYrcsfuhzh0f0azYxWrV xXxg rdzc EZdS_Q
+-9-r9j8e3VxQrNeGUAOdKpHwA7T9k_u-2958 w8y5yzyumylzn5n8 zZyYvXsZsavdzf1e1czZ
+AYD_G_ CWXWjXkbk9k_m_ OqPtP4 Oqaqa8 GdGkHkLlMeGd BXGOQAjX
+AoJOOCRHYabobuLqAp CoB2C7D8Q8n7_6_5-c_B7A1AdBRC av
+GYJkJz zY0b1k0qwvr0 Ixowxu AWEVMSPQYDcAgAkCpG0Z5f7g_i KYhX6Y
+J_P-p-091z4l4fwdhdZdGhHkJrJuHzG8F_G- Dfie3g9f-c6arPlFhAgAUHHPAeAf dn
+RZShUl QWSvU5 SVcTmTmQuOxYvZuaxlxyw2v3k3d2Qx CWEUNNSKVKbHeDlAqAtE1R_bkbfcaaDbAa
+EcKRRAXWchBgCgDkA2W4bgpg_j8MbGSD
+DdCoD7D-F_U-o8p8p6oyoenceZVYNYAbMIQCUAWAcLkVpd
+LxKfLYMVNUXXjZ_a2ii5d8Ax NXOUQRnDtAxC0F_e
+FdIXMRSMdAlYqfBgAfA9S_m_r9s6sjre
+B_AhBWCT0T03y_ CTLMdAjLpSqG1J
+BnFkTQZJdGjLoQ4m8l7i0YuSnIfATKPPAkAmCp GlHqI-N_T_Y-t9v7w2ziyh Q_SqUphojuj6 e1f1 UWTg
+CfDzG8I-q_r9ssqeqVZVQWGaAbAo BeCbMNVDZAcAkKpa T-T6OtRscrdrete- Yy FYFbHhKkNlRlTkVf
+BcEYYAcFvUyV1X AbHbkazY5Y LaMkN_R_Z-q3u3v2 uYtntuu4 XoZ9Z-a9 Ylfljlkll8
+IdGwH8 Faedzds6p_j_d8T6 AaGXcEgClApAtDvGxMzU VwV7 Sshthuh5 KhLlOpQqTqZmakZiYgWfSeNeLf ngknkqnsstusvqtjsgpdmckc oeps kkwl LdRu MkYk YyZ1b1dxbwWx
+M_Y7o0s0typgmZkVgUXUPVKWIdImO1P8 AjJTVGcAhHmQrXrgum
+B_D2DfEbOdbijjllnso5B_A- FaQI SF QHUObXkj aVaIVFVAZAoFoNlNiM
+oVSWKXM0L_ rVofn1m8l_ xbeCaAXAVCKPAcObjZxZzZ sapUlQWCaFhLnVcKUDfQjXWNNGXQeaVTNNMNMOSTVXLR
+ESyRqqi_W7F5B3AvAoCZET ESOIYAcBhErNuR
+QXPtN5 QXpdsd1c3d2ivuq9p-X8P6O5 AfJYYSiMwAwCxO0Z4k_u W5dsovpwozk_

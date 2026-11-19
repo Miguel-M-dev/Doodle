@@ -1,0 +1,16 @@
+<!--
+  LIST.TXT: which drawing files are in the game, one per line.
+  A drawing file that isn't listed here is ignored.
+  When you make a new drawing file, add its name here too.
+-->
+
+cat.txt
+fish.txt
+house.txt
+rainbow.txt
+bicycle.txt
+ice-cream.txt
+snowman.txt
+umbrella.txt
+mushroom.txt
+star.txt

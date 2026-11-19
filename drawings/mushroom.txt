@@ -1,0 +1,79 @@
+<!--
+  A DRAWING FILE: everything the computer knows about one thing.
+
+    # Mushroom           the name the game uses (one # sign)
+    emoji: 🍄           optional: shown next to the name
+    by: Sam, Ana         who drew them
+
+  Every other line is ONE drawing, written as letters and numbers.
+  You don't type these yourself: draw on the live site's Teach page,
+  click Copy for GitHub, and paste the new lines at the end of this file.
+  To remove a drawing, delete its whole line.
+
+  Lines inside these comment marks are notes. The game never reads them.
+-->
+
+# Mushroom
+emoji: 🍄
+by: Quick, Draw! players (drawings from Google's Quick, Draw! dataset, CC BY 4.0)
+
+g7fkViMeGbEZBUAMAKCHIDMBVAiBnCtFwIyMzTzasirprux8x_w_
+P_OoNhNd j_iyflfe0g4S4MxGpCcAVAQBLFHJDPAZMb
+qsqvj0h1czawYpYR qsopmllUwU3S YRXTUTGT AXGNJKTDdAiAnByF1H6M_V 7O4R1TmY ZYRYFU
+a6crehjftdxb1S1JzGrAeAUBHHDNBSAZBeFhKjKkKpG2F_
+LiLwK-h_i0igTgNfIfAbDGNBgAnCxcvfsinjfj
+S-Si S_Y-Zjplvkxi1f2c3X2RyMqFfBXALGEMBRAZAdCiEkIlQlWkak
+WbMZGWCUAQCLFIMEVBfAlB1J-P_S-W7c4dveshtnz1y7t-o_Q-Q3TqRh
+hhxj6h9e_Y_T9N3IvDoBiAeAVCPEKHEQAaAdDhIjTkcjdichbjbrZ1Z6b7h7l6m5mykrkjjfjg
+YmdbdTaSBSAQCKIEPAhBzA-E_G_I9M6P0QtRpTmcjhhifjYj
+CgSfwe3d-a_Y_U-P7KzEuCmAcAVBREDRAYAhDiLh XgWlX1a6c7e8k8o7p6q4q1osommg
+c5d3eidcXaJYEWCSBOAILBWAgAtF7M_P_U9X5Yzakamenil5h6d4
+BkFnJpOqXr or1q6n8l8f8d5bxZgYOaHcCfAiAk BhDYINQFYBgAlAoBuE1L5Q6Z YaZtY0V_ kbklmus6w9 GeHkKnQpVp
+dbcWcudr lXkckkownr jXnZrZ7S9R_O_J-H4CtAXBJDEECGAOBSEUIVUTgS aSaT aTbWcd
+WyWkYbTcMcJcDZBXAUAPCMJFNDUBqAuAzC5H9O_U_Y-a7c4djclkiuWyUxSv
+X-WjVcHWBSANCFECIAnA-D_D5OzVrXiYiogzg_V_
+GcAZAVBRKJTDZAgAkAxG3L-U_b-k9lzlvnupu5t7q7e7Y6VzUoPjIgEaEW fNaOSYTZXY
+QlLmJmEiBcAZAUCPGJNFRCVBeAkAwD2G8L-O_V_Y8c0h 4hxjthrmo7 RiRsP2P8o9
+AZDNGHLEPCbAhAnCsEwH0N3U4ZmYKZFZDY 3U1TyTvWvY lEmDnEnGlIiJfHeE GLHJKKMMMOKSGSES TXVTYSbVaY hXgieqdzZxSwRrSnWdWbVa eygviqhwkqmwmvnrnunxoxrtrwsxvvxrxvxxyy0w3s6l4w506y_o
+JGOBQAsF3G6I_Q_h_l1cuXpVfSTRITDVBXAbBfDiHkQmzp8n8k7i KDAPARCS bYUhPoNzO2g4cvbfbcccgc nNsOuQvRsQoQoN TJOKMM
+CjBgKOPJWDbAlAwD0F5K8P9S_f5fygqhAh RkTvU7 gihxj_ FZIaOYWQcJdGdEaB
+sCnAXANCHFBKANCRJUaWvW5V9T_Q_M_K9IxDmA WVVr mWlikr Urhrls
+AcTejeuc1b8X_V_T6PmDfAXANFJJEQCUBXAd YeYqauazb2 oeo2
+RbNnNvO0S6V9Y-f_m9p0qqojmfibccRcGaCXARBODKOCZAiBuHzP1W0Zvclcfb
+VxbViYnZobjgay gTORLSFWAXASCQKJaDnAxAzB2E-T_Z_i9k6jqYZTWQ
+KbGaFZBTAQAMBJHFLDSCfArA5C-F_H_M5T0XsakcMc RcSoaqdc NGNIRMVNfNfJcDbCPBNCdEXHRIWI 9R2RwPqPpSqUuWzW2UwSoSqRyQ
+XARCKICRAYAcEeagefkdsWzP2L2H0DvAoAiBaA ShQxO8O-P_U9a1gpgmgg
+CgDeESGNMFVBdAqAyE3J7P9V_exlhnTnAg XpVsU1x1yzxxsm
+UeVoM8Z9i9gyfxelfhge WfQhHhBeAYBQDNJJYAeAmBsDyF4K8N9P_X_b-d9f5hqiigcd
+nVrgtrssYrXoXeZUZR YTbS4S-P_N_K8G2CxBlAOAKBDEAJAQDSHTgT
+Z_YiWiDmBlAeBXERJJRDdAlAwD2H6M9U9c9g8hmimno7m9Z9
+QhQlOvR3R_ cdd3b6 AbIdkfqfvbyUvKtGpCkAXANEHKDRDW YHVHUITLUPXPcLbIYHXJ iQiRjUlXnWoSmPkQ VUWWYYbZdXdVZU
+EjBfAbAQCLHEPAVAaCgFlNnSnZldjffiRlLlBh LoM_e4boal
+AgBZHNOGUCZAeAqDuFzK6V_l BgDjInQpuo7l WmX0X3Z4f4l3o3qxqv qpn2 EZHcMePbRYSUSROMML uDqEoGlNlTnWqYxXzV bpanbicggdkemfom
+XUTVJVEVAUASELIIPEaBmAvB5F8I_L_O-P8S4UpWjVikhqftVrTqUiXU PLOOOSQSRRUNUKRI eHeGdFbGYJXMZNcNdLeI tOrNmOjQjSkT
+ichajgp2o6n8i_Z_V-R5P0NuOqYa XaJaDXBVATAMCJJDVAhAmBsFyL3S3X1Zubmbla
+FbDYDTHKWBYAbAnE1F3G5I7L_W_ZvbfcYdPaDcAc VcVlUwV1X2d2j1hhgf
+i7j6jtik o3ok qjhjGjCiAfAWEOJJUDgAmA0J8Q_T_W_Y-a8d5eyhsimjhj
+e_ea Da7a8Y5SxIpBjAfBWFLPGTCa ZbZ4b8c9 BXBTCPELIJZFkEqEuG0M3R5U2WrYcaKaAc
+bgIgCeAZAVDTMPXJbGgEjAmFrM7W_a6dtefeXd bebsa0g1s3t3rzpspe TRQSQVXYYVYTWRRRST oUnUmXnYqZqX
+jYj3f_c-a8Y3XsZXLTHRAFBCDBGAPAiDuH6K7L7N3UqYjY
+m_m8ptpjog e7freg qpvp7l9g9b6P2KvEqBlAYARBIFCJANAUBZDeIlOmamfn
+oFXFVGPJJNCWAaAfHnKoPqXrorsq0m9e_Y_R7K3HsBnA SpS0Q5Q8T9q8q6or XXSaReRfTgWgYfZYXVWV jPhQhUkUmUoSoRnNmMjM sYrZrctevdwbwWtV
+AdOiShXdhhlhogpezh5g-d_a_Y9R3KpDhBWAPBJFELCRBe QkRyS2V3j3n3o1nwnh
+WfVrWzY4d9i_m_n7pwnnjhgfYe YhWhLoFoDoBlAeBYFMIJRCUBaAjAnBuD0I5P7Y6g5iqfjdZdUe
+Q8QmNgJdATAPDIICNASAtMvOwRybwcpcinism3n_ ANLPRQOK
+P1QdFaBTAMBJEHRAYAeC2P6T_e_g-h1jrjkhXeXtXxV1
+ATAODKOCYAhBoGrKuWxbwdrfkgdeNfHeEdBZAWCTEQ VgVzU-W_l7l5ki
+WiXnWrQ5Q9V_q_s9s7r5n1kxktkjif BbDVHNJKPEYAlArD0N5a6f DYAeDfKf
+RiQyR9W-n8mk0m8k9j_e_Y-T6Q1MnDeBVARBGHBRAVCeOgRi
+N7Mi g_fgqcsZtVtPpJkEdBYARAJDFGCMARAWJfVgefhd
+cXc4 pXp4 cXQZEZCYAWASFMPEWCdAiAtBzE3I7N_U_W8Z5a0aqX
+X2YuXf W0tzuytkwf7f-d_Z_V9P3JwDlAdAZBUCPGGOBTAZAbDeHhLhXh
+VXUcXuX7Z8e7r3t2qbqaXZ TbRcNcAcAYEPJKSEcAoAxE4L9T_cucjd
+sbkdecdcdbhYlYqYsaqb raqM dccadNSQJQBOAMBIGEQAoAvB3E9J_N-R7S1RrMnL
+UgKqGqDoBlAgAbESINNHUDdAnAyD4H7M9U8Y6bzfwgsgnd pdo4n8j_g_Y9U7S5R1QvRkTh
+IaOcuf4h8g-d_X-Q7K1FvDoDcEQJLOEVAdAf afXtY1b4d5n6r5u1td wArGqKrMtN0P4O6N
+XWXaWcOoK1K2T4X4a3eygwgrghdXeW L5K8M9 P2P5Q9 U6V_ Y5Y7 oYjXbWLWCRCPDNNMVLsTtWtYlYuX2W4U3R0KvGoCdAGAECCDALAPBTEWKX QIMILFMFNJNH
+VZZsc3f7 oVogppqtu0u1 aZIbAaAZAVCNFHIEMCWAkAuC4H6N_T_UmX
+eygvhsgaiThNbNHVFWDUAQALDHIEXDoA4A9E_H9L6S3k1ryvuvsppf
+P6PyRa X_Z4bibY RaJZFYDWARAOBJHELCUAfAkDpHqLpNnQkSbW Z_ Y_U9M7 MM SHVI cIdJ PO OLKM IM
